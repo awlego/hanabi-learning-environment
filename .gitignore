@@ -1,5 +1,8 @@
 *.pyc
+
 /env3/
+.vscode/
+
 CMakeCache.txt
 CMakeFiles/
 Makefile
